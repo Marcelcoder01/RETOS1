@@ -25,7 +25,7 @@ export function add(MyWords: string []): number {
 }
 return suma;}
 
-let caracteres = ["ropa", "zapatos", "muebles"]
-let sumaCaracteres = add(caracteres)
-console.log(sumaCaracteres)
+// let caracteres = ["ropa", "zapatos", "muebles"]
+// let sumaCaracteres = add(caracteres)
+// console.log(sumaCaracteres)
 

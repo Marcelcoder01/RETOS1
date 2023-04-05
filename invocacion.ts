@@ -7,3 +7,9 @@ let Array3: string[] = ["Venezuela", "Veneno", "Voltaje"]
 
 let SumaArray1 = add(Array1)
 isEven(SumaArray1)
+
+let SumaArray2 = add(Array2)
+isEven(SumaArray2)
+
+let SumaArray3 = add(Array3)
+isEven(SumaArray3)
